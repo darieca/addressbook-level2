@@ -91,7 +91,7 @@ Returns `John Doe` but not `john`.
 * `find Betsy Tim John` +
 Returns Any person having names `Betsy`, `Tim`, or `John`.
 
-//== Find persons using phone number: `findP`
+== Find persons using phone number: `findP`
 
 Find all the persons whose phone number contains the number that user has entered. +
 Format: `findP PHONENUMBER`
